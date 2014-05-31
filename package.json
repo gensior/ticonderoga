@@ -1,14 +1,14 @@
 {
-  "name": "bastion",
-  "version": "0.1.0",
-  "description": "A node app using the AWS SDK to access AWS information from a bastion server.",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "aws-sdk": "~2.0.0-rc.19"
-  }
+    "name": "ticonderoga",
+    "version": "0.1.0",
+    "description": "A node app using the AWS SDK to access AWS information from a bastion server.",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "~2.0.0-rc.19"
+    }
 }
